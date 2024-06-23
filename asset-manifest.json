@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.874ef095.css",
-    "main.js": "/my-portfolio/static/js/main.3fcbf444.js",
-    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
-    "index.html": "/my-portfolio/index.html",
-    "main.874ef095.css.map": "/my-portfolio/static/css/main.874ef095.css.map",
-    "main.3fcbf444.js.map": "/my-portfolio/static/js/main.3fcbf444.js.map",
-    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/valeriegaticales/static/css/main.874ef095.css",
+    "main.js": "/valeriegaticales/static/js/main.fadf188a.js",
+    "static/js/453.acca0757.chunk.js": "/valeriegaticales/static/js/453.acca0757.chunk.js",
+    "index.html": "/valeriegaticales/index.html",
+    "main.874ef095.css.map": "/valeriegaticales/static/css/main.874ef095.css.map",
+    "main.fadf188a.js.map": "/valeriegaticales/static/js/main.fadf188a.js.map",
+    "453.acca0757.chunk.js.map": "/valeriegaticales/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.874ef095.css",
-    "static/js/main.3fcbf444.js"
+    "static/js/main.fadf188a.js"
   ]
 }
